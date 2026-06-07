@@ -1,0 +1,42 @@
+# QOMP - Quantum Optimization Multi-dimensional Positioning
+# Financial AI System with Numerology & Astrology Analysis
+
+# Production Dependencies
+yfinance==0.2.32
+pandas==2.1.3
+numpy==1.26.2
+scikit-learn==1.3.2
+
+# UI Framework
+PyQt6==6.6.1
+PyQt6-Qt6==6.6.1
+matplotlib==3.8.2
+
+# Data Science & Analysis
+scipy==1.11.4
+statsmodels==0.14.0
+
+# API & Web
+requests==2.31.0
+python-binance==1.0.17
+
+# Database
+sqlalchemy==2.0.23
+
+# Utilities
+python-dotenv==1.0.0
+pytz==2023.3
+
+# Optional: Astrology (install if needed)
+# skyfield==1.47
+# pyswisseph==2.10.0
+
+# Development
+pytest==7.4.3
+black==23.12.0
+pylint==3.0.3
+mypy==1.7.1
+
+# Disclaimer
+# QOMP is for analytical and educational purposes only.
+# Not financial advice. Past performance ≠ future results.
